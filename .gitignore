@@ -1,0 +1,7 @@
+build/
+*.yml
+*.plc0
+*.epf
+build.sh
+dist/
+*.exe
